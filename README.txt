@@ -45,4 +45,5 @@ Team Kinect:
 Joey Ni
 Alvin Portillo
 Karen Lo
+Amine Boumnade
 
